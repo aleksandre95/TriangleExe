@@ -16,7 +16,7 @@ public class TriangleExercise {
      */
     public static void main(String[] args) {
         
-        PotentialTriangle pt3 = new PotentialTriangle(Integer.MAX_VALUE+1 , Integer.MAX_VALUE, 1);
+        PotentialTriangle pt3 = new PotentialTriangle(5 , 2, 3);
         //PotentialTriangle pt4 = new PotentialTriangle(1, 0, 3);
         //System.out.println(TriangleType.ofPotentialTriangle(pt));
         //System.out.println(TriangleType.ofPotentialTriangle(pt1));
